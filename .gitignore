@@ -1,0 +1,4 @@
+*.dll
+x64
+*.pdb
+*.vcxproj*
